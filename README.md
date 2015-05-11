@@ -26,7 +26,7 @@ And for use  FancyWrite you need to pick a element that contains text you want t
     $(parentElement).Fancywrite({
 			type: letter,(Default) 
 			/* Letter By Letter or Word by Word ( options -> "letter" - "word" )*/
-			anims : opacity,(Default)
+			anim : opacity,(Default)
 			/*Animation for texts options are -> "opacity" , "left" , "top" , "bottom" , "scale" */ 
 			speed: 100, (Defaukt)
 			/* Animations Speed */
