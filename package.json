@@ -1,0 +1,21 @@
+{
+  "name": "fancywrite",
+  "version": "1.0.0",
+  "description": "Animated texts for html5 with jquery",
+  "main": "/js/fancywrite.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jquery",
+    "html5",
+    "animate",
+    "text"
+  ],
+  "author": "Uğur Oruç",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https//github.com/Ketcap/FancyWrite"
+  }
+}
